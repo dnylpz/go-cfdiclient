@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"cfdiclient/cfdiclient"
+	"github.com/dnylpz/go-cfdiclient/cfdiclient"
 )
 
 // Defaults point at the upstream sample FIEL shipped in certificados/.

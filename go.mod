@@ -1,4 +1,4 @@
-module cfdiclient
+module github.com/dnylpz/go-cfdiclient
 
 go 1.24.0
 

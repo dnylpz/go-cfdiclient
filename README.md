@@ -19,10 +19,8 @@ This is a Go port of [luisiturrios/python-cfdiclient](https://github.com/luisitu
 ## Installation
 
 ```bash
-go get cfdiclient/cfdiclient
+go get github.com/dnylpz/go-cfdiclient/cfdiclient
 ```
-
-The module path is currently the local `cfdiclient`. Adjust `go.mod` and imports if you publish it under a hosted path.
 
 Requirements:
 
@@ -56,7 +54,7 @@ import (
     "os"
     "time"
 
-    "cfdiclient/cfdiclient"
+    "github.com/dnylpz/go-cfdiclient/cfdiclient"
 )
 
 func main() {
