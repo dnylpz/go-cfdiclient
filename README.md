@@ -127,4 +127,4 @@ The canonicalization tests under `cfdiclient/c14n_test.go` compare Go's output a
 
 ## License
 
-Not yet specified. If you plan to publish, add a license file that is compatible with the upstream Python project.
+[GNU General Public License v3.0](LICENSE), matching the upstream [luisiturrios/python-cfdiclient](https://github.com/luisiturrios/python-cfdiclient) project.
