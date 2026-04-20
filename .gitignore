@@ -1,0 +1,7 @@
+
+# Parity-test artifacts from failing runs
+testdata/c14n/*.go.bin
+
+# Go build output
+*.test
+*.out

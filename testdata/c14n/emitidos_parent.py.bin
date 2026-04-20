@@ -1,0 +1,1 @@
+<des:SolicitaDescargaEmitidos xmlns:des="http://DescargaMasivaTerceros.sat.gob.mx"><des:solicitud FechaFinal="2025-06-02T00:00:00" FechaInicial="2025-06-01T00:00:00" RfcEmisor="ESI920427886" RfcSolicitante="ESI920427886" TipoSolicitud="CFDI"><des:RfcReceptores><des:RfcReceptor>ESI920427886</des:RfcReceptor></des:RfcReceptores></des:solicitud></des:SolicitaDescargaEmitidos>
